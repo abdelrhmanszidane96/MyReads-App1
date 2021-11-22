@@ -24,3 +24,4 @@ To add new books, click on the Purple + button at the bottom of the page. Enter 
 
 ![1](https://user-images.githubusercontent.com/91816795/142794100-1c68d767-b131-4d8f-9ffd-51d23ce0d0b8.PNG)
 
+![2](https://user-images.githubusercontent.com/91816795/142794165-a6a303c0-49c2-4c21-ba75-ae7727ed1ef7.PNG)
